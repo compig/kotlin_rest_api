@@ -3,24 +3,27 @@
 kotiln rest api init spring boot project
 
 
-테이블 
+`테이블` 
 
-SYSTEM_CODE
+`SYSTEM_CODE`
 
-TAUTH
+`TAUTH`
 
-TAUTH_MEMBER
+`TAUTH_MEMBER`
 
-TBOARD
+`TBOARD`
 
-TBOARD_AUTH
+`TBOARD_AUTH`
 
-TBOARD_FILE
+`TBOARD_FILE`
 
-TBOARD_GROUP
+`TBOARD_GROUP`
 
-TFILE
+`TFILE`
 
-TSERVICE
+`TSERVICE`
 
-TUSER
+`TUSER`
+
+
+jwt
