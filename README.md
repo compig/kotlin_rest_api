@@ -1,6 +1,6 @@
-# kotiln_rest_api_init
+# kotlin_rest_api_init
 
-kotiln rest api init spring boot project
+kotlin rest api init spring boot project
 
 
 `테이블` 
